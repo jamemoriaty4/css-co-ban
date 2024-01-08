@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(218, 208, 208);
+}
+
+h1 {
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+  padding-left: calc((1087.2px - 294px) / 2);
+}
+
+.red {
+  color: red;
+  text-align: left;
+}

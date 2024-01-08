@@ -1,0 +1,56 @@
+* {
+  text-align: center;
+}
+
+.btn {
+  background-color: rgb(105, 105, 233);
+  width: 150px;
+  height: 30px;
+  display: inline-block;
+  margin-top: 50px;
+  padding: 10px;
+  font-size: 24px;
+  color: white;
+  margin-bottom: 10px;
+  border-radius: 9px;
+}
+
+.title {
+  font-size: 42px;
+  margin: 0px 10px;
+}
+
+b {
+  color: blue;
+}
+.lorem {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.common {
+  background-color: rgb(156, 156, 229);
+  width: 125px;
+  height: 30px;
+  padding: 10px 10px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: black;
+  line-height: 30px;
+}
+.common-1 {
+  background-color: rgb(156, 156, 229);
+  width: 125px;
+  height: 30px;
+  padding: 10px 10px;
+  display: inline-block;
+  text-decoration: none;
+  background-color: black;
+  border-radius: 5px;
+  line-height: 30px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
